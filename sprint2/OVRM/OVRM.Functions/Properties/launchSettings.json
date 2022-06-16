@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "OVRM.Functions": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "server": "sbcgovrmsqlserver.database.windows.net;Database=OVRMDb;User Id=cgadmin;Password=Balaji@12345;MultipleActiveResultSets=True;"
+      }
+    }
+  }
+}

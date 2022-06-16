@@ -1,0 +1,13 @@
+C:\Capgemini\balaji\sprint2\OVRM\OVRM.DAL\bin\Release\netcoreapp3.1\OVRM.DAL.deps.json
+C:\Capgemini\balaji\sprint2\OVRM\OVRM.DAL\bin\Release\netcoreapp3.1\OVRM.DAL.dll
+C:\Capgemini\balaji\sprint2\OVRM\OVRM.DAL\bin\Release\netcoreapp3.1\OVRM.DAL.pdb
+C:\Capgemini\balaji\sprint2\OVRM\OVRM.DAL\bin\Release\netcoreapp3.1\OVRM.Entities.dll
+C:\Capgemini\balaji\sprint2\OVRM\OVRM.DAL\bin\Release\netcoreapp3.1\OVRM.Entities.pdb
+C:\Capgemini\balaji\sprint2\OVRM\OVRM.DAL\obj\Release\netcoreapp3.1\OVRM.DAL.csproj.AssemblyReference.cache
+C:\Capgemini\balaji\sprint2\OVRM\OVRM.DAL\obj\Release\netcoreapp3.1\OVRM.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini\balaji\sprint2\OVRM\OVRM.DAL\obj\Release\netcoreapp3.1\OVRM.DAL.AssemblyInfoInputs.cache
+C:\Capgemini\balaji\sprint2\OVRM\OVRM.DAL\obj\Release\netcoreapp3.1\OVRM.DAL.AssemblyInfo.cs
+C:\Capgemini\balaji\sprint2\OVRM\OVRM.DAL\obj\Release\netcoreapp3.1\OVRM.DAL.csproj.CoreCompileInputs.cache
+C:\Capgemini\balaji\sprint2\OVRM\OVRM.DAL\obj\Release\netcoreapp3.1\OVRM.DAL.csproj.CopyComplete
+C:\Capgemini\balaji\sprint2\OVRM\OVRM.DAL\obj\Release\netcoreapp3.1\OVRM.DAL.dll
+C:\Capgemini\balaji\sprint2\OVRM\OVRM.DAL\obj\Release\netcoreapp3.1\OVRM.DAL.pdb

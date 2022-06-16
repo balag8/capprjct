@@ -1,0 +1,58 @@
+﻿@model OVRM.Entities.Admin
+
+@{
+    ViewData["Title"] = "CreateAdmin";
+}
+
+<h1>CreateAdmin</h1>
+
+<h4>Admin</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="CreateAdmin">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Admin_id" class="control-label"></label>
+                <input asp-for="Admin_id" class="form-control" />
+                <span asp-validation-for="Admin_id" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="First_name" class="control-label"></label>
+                <input asp-for="First_name" class="form-control" />
+                <span asp-validation-for="First_name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Last_name" class="control-label"></label>
+                <input asp-for="Last_name" class="form-control" />
+                <span asp-validation-for="Last_name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Admin_Email" class="control-label"></label>
+                <input asp-for="Admin_Email" class="form-control" />
+                <span asp-validation-for="Admin_Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Mobile_No" class="control-label"></label>
+                <input asp-for="Mobile_No" class="form-control" />
+                <span asp-validation-for="Mobile_No" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Admin_Password" class="control-label"></label>
+                <input asp-for="Admin_Password" class="form-control" />
+                <span asp-validation-for="Admin_Password" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index" asp-controller="Home">Back to Home</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

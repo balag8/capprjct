@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e86184c1-9c69-4d17-a9b4-9828399dc28a": {
+      "ProjectGuid": "e86184c1-9c69-4d17-a9b4-9828399dc28a",
+      "DisplayName": "Online_Vehicle_Rental_management.DAL.API",
+      "ColorIndex": 0
+    },
+    "3f43d493-d4a3-4055-b69d-ffb8966bd838": {
+      "ProjectGuid": "3f43d493-d4a3-4055-b69d-ffb8966bd838",
+      "DisplayName": "Online_Vehicle_Rental_management.Entities.API",
+      "ColorIndex": 1
+    },
+    "137a6be1-cbdd-46c2-87c9-de61c1664033": {
+      "ProjectGuid": "137a6be1-cbdd-46c2-87c9-de61c1664033",
+      "DisplayName": "Online_Vehicle_Rental_management.API",
+      "ColorIndex": 2
+    },
+    "25d0d000-8666-498c-bdff-47242a9fd4a9": {
+      "ProjectGuid": "25d0d000-8666-498c-bdff-47242a9fd4a9",
+      "DisplayName": "Online_Vehcle_Rental_management.API.UnitTests",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

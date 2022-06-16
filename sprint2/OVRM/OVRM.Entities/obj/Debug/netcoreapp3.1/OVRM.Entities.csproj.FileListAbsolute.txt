@@ -1,0 +1,10 @@
+C:\Capgemini\balaji\sprint2\OVRM\OVRM.Entities\bin\Debug\netcoreapp3.1\OVRM.Entities.deps.json
+C:\Capgemini\balaji\sprint2\OVRM\OVRM.Entities\bin\Debug\netcoreapp3.1\OVRM.Entities.dll
+C:\Capgemini\balaji\sprint2\OVRM\OVRM.Entities\bin\Debug\netcoreapp3.1\OVRM.Entities.pdb
+C:\Capgemini\balaji\sprint2\OVRM\OVRM.Entities\obj\Debug\netcoreapp3.1\OVRM.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini\balaji\sprint2\OVRM\OVRM.Entities\obj\Debug\netcoreapp3.1\OVRM.Entities.AssemblyInfoInputs.cache
+C:\Capgemini\balaji\sprint2\OVRM\OVRM.Entities\obj\Debug\netcoreapp3.1\OVRM.Entities.AssemblyInfo.cs
+C:\Capgemini\balaji\sprint2\OVRM\OVRM.Entities\obj\Debug\netcoreapp3.1\OVRM.Entities.csproj.CoreCompileInputs.cache
+C:\Capgemini\balaji\sprint2\OVRM\OVRM.Entities\obj\Debug\netcoreapp3.1\OVRM.Entities.dll
+C:\Capgemini\balaji\sprint2\OVRM\OVRM.Entities\obj\Debug\netcoreapp3.1\OVRM.Entities.pdb
+C:\Capgemini\balaji\sprint2\OVRM\OVRM.Entities\obj\Debug\netcoreapp3.1\OVRM.Entities.csproj.AssemblyReference.cache

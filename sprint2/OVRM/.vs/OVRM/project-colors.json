@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0b96ce4c-4a14-47da-bc7c-500bdf4d1db3": {
+      "ProjectGuid": "0b96ce4c-4a14-47da-bc7c-500bdf4d1db3",
+      "DisplayName": "OVRM.Functions",
+      "ColorIndex": 0
+    },
+    "bffe57d6-c6da-4c79-86d6-a112a4e33dbe": {
+      "ProjectGuid": "bffe57d6-c6da-4c79-86d6-a112a4e33dbe",
+      "DisplayName": "OVRM.Web",
+      "ColorIndex": 1
+    },
+    "669a1213-07ab-4bfa-ba24-85b11643fc64": {
+      "ProjectGuid": "669a1213-07ab-4bfa-ba24-85b11643fc64",
+      "DisplayName": "OVRM.Entities",
+      "ColorIndex": 2
+    },
+    "e6910676-90e0-48f4-bbb5-422b9a41e768": {
+      "ProjectGuid": "e6910676-90e0-48f4-bbb5-422b9a41e768",
+      "DisplayName": "OVRM.DAL",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
